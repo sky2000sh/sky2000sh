@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my page! 👋
+I'm Si-Hyeon, Fullstack developer from Seoul, South Korea.
+<!-- currently living in Stockholm, Sweden. -->
 
 <!--
 **sky2000sh/sky2000sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
