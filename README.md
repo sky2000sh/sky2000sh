@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 <h2> My Tech Stacks 📚 </h2>
 
 ![HTML5] (https://img.shields.io/badge/badge-HTML5-blue)
+https://img.shields.io/badge/badge-HTML5-blue
