@@ -19,8 +19,12 @@ Here are some ideas to get you started:
 
 <br>
 
+### 💪 Words I stand for
+<div align = center> Sometimes the place you are used to is not the place you belong. You belong where you believe you belong. </div>
+<hr>
+
 ### 📚 Things I code with
-<div align=center> 
+<div align = center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
