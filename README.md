@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <br>
 <h2> My Tech Stacks 📚 </h2>
 
-![HTML5] (img src="https://img.shields.io/badge/badge-HTML5-9cf")
+![HTML5] <img src="https://img.shields.io/badge/badge-HTML5-9cf">
