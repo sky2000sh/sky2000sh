@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ![sky2000sh's github stats](https://github-readme-stats.vercel.app/api?username=sky2000sh&show_icons=true&theme=vue-dark)
 
+
 ### 💪 Words I stand for
 <div align = center> "Sometimes the place you are used to is not the place you belong. You belong where you believe you belong." </div>
 <hr>
