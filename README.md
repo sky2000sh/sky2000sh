@@ -45,3 +45,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 </div>
+
+<br>
+
+## 📬 Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style-flat-square&logo=Gmail&logoColor=white&link=mailto:sky2000sh@gmail.com)](mailto:sky2000sh@gmail.com)
+<!-- [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style-flat-square&logo=Naver&logoColor=white&link=mailto:sky2000sh@naver.com)](mailto:sky2000sh@naver.com)  -->
