@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 
 <br>
 
+![sky2000sh's github stats](https://github-readme-stats.vercel.app/api?username=sky2000sh&show_icons=true&theme=dracula)
+
 ### 💪 Words I stand for
-<div align = center> Sometimes the place you are used to is not the place you belong. You belong where you believe you belong. </div>
+<div align = center> "Sometimes the place you are used to is not the place you belong. You belong where you believe you belong." </div>
 <hr>
 
 ### 📚 Things I code with
