@@ -20,9 +20,13 @@ Here are some ideas to get you started:
 
 <br>
 
+| <a href="https://github.com/sky2000sh/sky2000sh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sky2000sh&show_icons=true&theme=vue-dark" alt="sky2000sh's github stats" /></a> | <a href="https://github.com/sky2000sh/sky2000sh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sky2000sh&layout=compact&langs_count=8&theme=vue-dark" /></a> |
+| ------------- | ------------- |
+<!--
 ![sky2000sh's github stats](https://github-readme-stats.vercel.app/api?username=sky2000sh&show_icons=true&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sky2000sh&layout=compact&langs_count=8&theme=vue-dark)
-
+-->
+<br>
 
 ### 💪 Words I stand for
 <div align = center> "Sometimes the place you are used to is not the place you belong. You belong where you believe you belong." </div>
