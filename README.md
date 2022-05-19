@@ -1,5 +1,5 @@
 ### Welcome to my page! 👋
-I'm Si-Hyeon, Fullstack developer in Seoul, South Korea.
+I'm Si-Hyeon, Fullstack developer from South Korea.
 <br>🌱 I’m currently learning Vue.js and Python.
 <!-- currently living in Stockholm, Sweden. -->
 
@@ -58,3 +58,4 @@ Here are some ideas to get you started:
 ## 📬 Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style-flat-square&logo=Gmail&logoColor=white&link=mailto:sky2000sh@gmail.com)](mailto:sky2000sh@gmail.com)
 <!-- [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style-flat-square&logo=Naver&logoColor=white&link=mailto:sky2000sh@naver.com)](mailto:sky2000sh@naver.com)  -->
+<!-- https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/ -->
