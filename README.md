@@ -1,5 +1,5 @@
 ### Welcome to my page! 👋
-I'm Si-Hyeon, Fullstack developer from Seoul, South Korea.
+I'm Si-Hyeon, Fullstack developer in Seoul, South Korea.
 <br>🌱 I’m currently learning Vue.js and Python.
 <!-- currently living in Stockholm, Sweden. -->
 
@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <br>
 
 ![sky2000sh's github stats](https://github-readme-stats.vercel.app/api?username=sky2000sh&show_icons=true&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sky2000sh&layout=compact&langs_count=8&theme=vue-dark)
 
 
 ### 💪 Words I stand for
