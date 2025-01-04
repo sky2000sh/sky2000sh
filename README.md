@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/grafana-181818?style=for-the-badge&logo=grafana&logoColor=white">
-  <img src="https://img.shields.io/badge/python-F1F0E8?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/python-F1F0E8?style=for-the-badge&logo=python&logoColor=blue">
   <img src="https://img.shields.io/badge/dart-0A5EB0?style=for-the-badge&logo=dart&logoColor=white">
 </div>
 
