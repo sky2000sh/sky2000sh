@@ -1,6 +1,7 @@
 ### Welcome to my page! 👋
-I'm Si-Hyeon, Fullstack developer from South Korea.
-<br>🌱 I’m currently learning Vue.js and Python.
+I'm Si-Hyeon, Software developer(FullStack) from South Korea.
+<br>Usually programming with Java, Spring(boot), Javascript.
+<br>🌱 I’m currently learning Python and Dart. Hopefully starting Swift.
 <!-- currently living in Stockholm, Sweden. -->
 
 <!--
